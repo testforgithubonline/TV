@@ -1,0 +1,1405 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://dev.grayidea.com:4022/udp/239.3.1.129:8008
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://123.180.177.20:16000/udp/239.253.92.83:8012
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://115.171.216.56:4000/udp/225.1.8.1:8008
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://wouu.net:9977/udp/239.93.1.23:6000
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://omnix.cn:4000/udp/225.1.8.89:8000
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://221.213.69.82:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://60.12.183.46:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://125.89.163.44:8888/udp/239.77.0.87:5146
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-IPV4",CCTV6
+http://119.129.238.239:10000/udp/239.77.0.171:5146
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://116.128.224.11:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://221.213.69.82:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://ik6.iptv8.net:8888/udp/225.1.4.161:1197
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://s.cdhongyuan.cn:4022/udp/239.93.1.24:5140
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://125.89.163.44:8888/udp/239.77.0.135:5146
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://origin.lean.org.cn:4000/udp/239.45.3.4:5140
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="CCTV-IPV4",CCTV10
+http://125.89.163.44:8888/udp/239.77.0.134:5146
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="CCTV-IPV4",CCTV10
+http://60.12.183.46:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://116.128.224.11:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://115.171.216.56:4000/udp/225.1.8.73:8120
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://27.10.76.34:8006/udp/225.0.4.129:7980
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://125.89.163.44:8888/udp/239.253.43.196:5146
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://vl15191373.imwork.net:8880/udp/239.93.0.66:5140
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://125.89.163.44:8888/udp/239.77.1.161:5146
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://115.171.216.56:4000/udp/225.1.8.14:8132
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://60.12.183.46:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-IPV4",CCTV17
+http://origin.lean.org.cn:4000/udp/239.45.3.52:5140
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-IPV4",CCTV17
+http://115.171.216.56:4000/udp/225.1.8.17:8144
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://101.65.32.166:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://www.745612.xyz:7788/rtp/235.254.198.51:1480
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://iptv.yjxfz.com:80/tv/play/4/DE5900E63JDE4906/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://27.11.49.234:8001/rtp/225.0.4.74:7980
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://218.241.192.50:8808/rtp/239.3.1.129:8008
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://221.213.69.82:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://buffaloft.ignorelist.com:8888/rtp/239.3.1.129:8008
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://123.113.237.36:8012/rtp/239.3.1.129:8008
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://27.11.52.62:8004/udp/225.0.4.74:7980
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://iptv.yjxfz.com:80/tv/play/4/IA0857027N7A9D30/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://111.14.181.15:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://www.akw323.com:9527/udp/238.255.2.91:5999
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+https://epg.pw/stream/039be3079ab37bd1fe868f6992922a7fecdd7fe591a7ff7629968aef0341460c.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://175.31.21.146:4480/hls/1/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://iptv.yjxfz.com:80/tv/play/4/A6DJ6D959D987II0/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://124.230.56.162:55555/rtp/239.76.253.151:9000
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://111.9.163.109:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://1732e975z9.zicp.fun:8082/hls/1/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://59.173.183.242:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://iptvcyp.top:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://124.230.56.141:55555/rtp/239.76.253.151:9000
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://iptv.yjxfz.com:80/tv/play/4/3J016D875AI40E40/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://iptv.yjxfz.com:80/tv/play/4/73716018II3IA31A/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://218.3.138.25:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://124.116.183.146:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://27.11.52.62:8005/udp/225.0.4.74:7980
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://iptv.yjxfz.com:80/tv/play/4/983606952NE60A6A/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://116.117.107.53:8096/tsfile/live/0001_1.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://iptv.yjxfz.com:80/tv/play/4/I88N74DJ92465678/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://115.171.216.56:4000/udp/225.1.8.101:8080
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://27.11.49.234:8007/rtp/225.0.4.74:7980
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://iptv.yjxfz.com:80/tv/play/4/3J9JN4449JI05I0E/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://60.189.43.82:9999/rtp/233.50.201.118:5140
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://iptv.yjxfz.com:80/tv/play/4/J1INA688D6601A01/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://27.10.76.34:8001/udp/225.0.4.74:7980
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://124.128.73.58:9901/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://36.32.174.67:60080/newlive/live/hls/1/live.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV-IPV4",CCTV1
+http://61.138.128.226:19901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://61.163.181.78:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://iptv.yjxfz.com:80/tv/play/4/80A513E205E8J029/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://111.61.236.247:9081/hls/2/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://120.234.49.38:7000/udp/239.20.0.197:2192
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://iptv.yjxfz.com:80/tv/play/4/21514I1N64291J63/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://112.123.206.32:808/hls/2/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://60.12.183.46:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://14.29.76.30:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://iptv.yjxfz.com:80/tv/play/4/448923I2D60J91JE/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://221.221.153.193:8888/rtp/239.3.1.60:8084
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://61.138.128.226:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://iptv.yjxfz.com:80/tv/play/4/9D95J756383ID8N7/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://117.27.190.42:9998/tsfile/live/23233_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://tnvcn.com:8012/rtp/239.3.1.60:8084
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://119.163.199.98:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://114.252.229.100:8000/rtp/239.3.1.60:8084
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://omnix.cn:4000/udp/225.1.8.2:8084
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://123.113.236.69:8012/rtp/239.3.1.2:8004
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://vl15191373.imwork.net:8880/udp/239.93.1.23:6000
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://sweetown.fun:4000/rtp/239.3.1.60:8084
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://221.213.69.82:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2[1066x600]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://59.173.183.242:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://113.57.109.48:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://iptv.yjxfz.com:80/tv/play/4/97I86895D302JE50/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://222.95.92.12:4000/rtp/239.49.1.2:6000
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://iptv.yjxfz.com:80/tv/play/4/52E28N8908D02167/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://iptv.yjxfz.com:80/tv/play/4/9A985034N9I3I8N7/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://27.11.49.234:8001/rtp/225.0.4.132:7980
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV-IPV4",CCTV2
+http://222.95.92.12:4000/rtp/239.49.8.130:6000
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://220.164.192.48:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://www.dsmcloud.top:8888/rtp/239.81.0.231:4056
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://e1.woc.iiiya.cn:8888/rtp/239.61.3.34:9722
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://27.10.76.34:8007/udp/225.0.4.142:7980
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://1b6467f415.iok.la:9931/tsfile/live/1022_1.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://123.138.216.44:9902/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://sweetown.fun:4000/rtp/239.3.1.172:8001
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://iptv.yjxfz.com:80/tv/play/4/215026A47125A99J/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://113.25.252.226:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://61.136.172.236:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://219.147.200.9:18080/newlive/live/hls/3/live.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+https://epg.pw/stream/31f5ee8674a8a9d1ab3228b40633e66a0300ce8b13b8cf4c1b7afa823ec93d64.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://iptv.yjxfz.com:80/tv/play/4/277D17N5EN823581/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://27.10.76.34:8007/rtp/225.0.4.142:7980
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://123.180.177.20:16000/udp/239.253.92.191:6057
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://iptv.yjxfz.com:80/tv/play/4/5466465JN326AE5E/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://iptvcyp.top:9901/tsfile/live/faacts/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://221.213.69.82:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://omnix.cn:4000/udp/225.1.8.88:8000
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://36.32.174.67:60080/newlive/live/hls/3/live.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://114.243.102.64:4000/rtp/239.3.1.172:8001
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://112.123.206.32:808/hls/3/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://111.14.181.15:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://27.11.52.62:8005/udp/225.0.4.142:7980
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://27.11.49.234:8007/rtp/225.0.4.142:7980
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://222.241.154.37:9901/tsfile/live/23003_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://119.163.199.98:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://58.19.244.92:1111/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://59.173.183.242:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3[1024x576]
+http://116.128.224.11:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://home.yulei.online:9999/rtp/226.0.2.208:9576
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://119.129.238.239:10000/udp/239.77.0.169:5146
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://iptv.yjxfz.com:80/tv/play/4/7469NJEN19943431/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://61.138.128.226:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://27.10.76.34:8001/udp/225.0.4.142:7980
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://60.189.43.82:9999/rtp/233.50.201.196:5140
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://iptv.yjxfz.com:80/tv/play/4/1D365N81E8D5D719/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://47.102.200.34:18081/live/program/live/cctv38m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://cn.zzmd.fun:8888/rtp/239.3.1.172:8001
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://iptv.yjxfz.com:80/tv/play/4/J8AEN10979I4A9D9/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://123.7.110.43:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://dassby.qqff.top:99/live/cctv3/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://111.196.184.130:5555/rtp/239.3.1.172:8001
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+https://epg.pw/stream/7a262b749ab7f12e9b967b05e0bd95defc9446e9391ba6ee94407aa388a4f81e.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://iptv.yjxfz.com:80/tv/play/4/057D61AA6661N046/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV-IPV4",CCTV3
+http://61.136.67.238:50085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+http://vl15191373.imwork.net:8880/udp/239.93.1.105:5140
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+http://114.226.231.241:8888/rtp/239.49.8.131:6000
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+http://buffaloft.ignorelist.com:8888/rtp/239.3.1.213:4220
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+http://www.furymax.top:85/rtp/239.69.1.138:10466
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+http://iptv.yjxfz.com:80/tv/play/4/I8E7991EA63136A3/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+http://wouu.net:9977/udp/239.93.1.105:5140
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+http://27.11.49.234:8001/rtp/225.0.4.176:7980
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+http://112.123.206.32:808/hls/4/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+http://60.12.183.46:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+http://iptv.yjxfz.com:80/tv/play/4/07929D6D5N7N40D2/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+http://221.221.153.193:8888/rtp/239.3.1.105:8092
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+https://epg.pw/stream/65ac61c6c6a2b58f5eb41469958413367ff7af3ad84bc702885b5afd3327fcb0.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+http://59.173.183.242:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+http://iptv.yjxfz.com:80/tv/play/4/9991D587N38D8DJ3/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+http://115.171.216.56:4000/udp/225.1.8.104:8216
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+http://121.24.98.127:8090/hls/12/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+http://14.29.76.30:9901/tsfile/live/1010_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+https://epg.pw/stream/8af67b32b047b43e35713509603dd92263f344a13fae50eb202a7956458229fb.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+http://omnix.cn:4000/udp/225.1.8.4:8092
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4[1280x720]
+http://219.147.200.9:18080/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+http://114.249.161.174:4022/rtp/239.3.1.105:8092
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV-IPV4",CCTV4
+http://e1.woc.iiiya.cn:8888/rtp/239.61.2.206:9224
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://tnvcn.com:8012/rtp/239.3.1.173:8001
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://121.24.98.253:8090/hls/13/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://1732e975z9.zicp.fun:8082/hls/5/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://110.178.52.91:8082/rtp/239.1.1.11:8011
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://220.164.192.48:50085/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://116.233.34.25:7777/tsfile/live/0005_1.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://iptv.yjxfz.com:80/tv/play/4/AAI96JIN3DED3454/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://123.113.237.36:8012/rtp/239.3.1.130:8004
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://iptv.yjxfz.com:80/tv/play/4/IJ80J19540073386/5689EI8401E9E08I
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://www.akw323.com:9527/rtp/238.255.2.134:5999
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://59.173.243.210:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://58.216.229.130:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://119.163.199.98:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://27.11.49.234:8001/rtp/225.0.4.143:7980
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://47.102.200.34:18081/live/program/live/cctv58m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://iptv.yjxfz.com:80/tv/play/4/094AIJ922E183D63/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://114.243.102.64:4000/rtp/239.3.1.173:8001
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://124.128.73.58:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://iptv.yjxfz.com:80/tv/play/4/65N4I4A0E064IN02/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://61.162.52.6:8088/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://221.12.3.18:8980/live/cctv5/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://iptv.yjxfz.com:80/tv/play/4/J97697N3JA358IAD/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://iptv.yjxfz.com:80/tv/play/4/4IN980A9N0A778I9/5689EI8401E9E08I
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://27.10.76.34:8007/rtp/225.0.4.143:7980
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://116.128.242.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://wouu.net:9977/udp/239.93.1.36:8004
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://iptv.yjxfz.com:80/tv/play/4/N37D7I9A63E02ID7/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://171.117.245.185:8085/rtp/226.0.2.209:9584
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://27.11.49.234:8007/rtp/225.0.4.143:7980
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+https://epg.pw/stream/1c87e8d2903e8f1b47579512c24dc43dcb45af4ad0b1503f4ff3b5aeefda321d.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-IPV4",CCTV5
+http://tvbox6.com/tv/ysp.php?id=5
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://iptv.yjxfz.com:80/tv/play/4/7E5J0I4N10I07D8I/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://iptv.yjxfz.com:80/tv/play/4/9A26I7D1J93A916D/5689EI8401E9E08I
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://221.0.78.198:1681/hls/10217/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://119.129.238.239:10000/udp/239.77.0.87:5146
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://60.189.43.82:9999/rtp/233.50.201.220:5140
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://iptv.yjxfz.com:80/tv/play/4/8925I35538D6275A/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://iptv.yjxfz.com:80/tv/play/4/NE0948N64E314318/5689EI8401E9E08I
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://59.173.183.242:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://iptv.yjxfz.com:80/tv/play/4/A2E0I4JJ826200AE/5689EI8401E9E08I
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://iptv.yjxfz.com:80/tv/play/4/073IJJ456N0JEDND/5689EI8401E9E08I
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://123.182.60.29:9002/hls/17/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://iptv.yjxfz.com:80/tv/play/4/911998098J763858/5689EI8401E9E08I
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://iptv.yjxfz.com:80/tv/play/4/N06A0IJ3246149I0/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://iptv.yjxfz.com:80/tv/play/4/51D5N876N2398E8D/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://218.89.240.144:59901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://iptv.yjxfz.com:80/tv/play/4/8N3N17IJEE4A777E/5689EI8401E9E08I
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://124.230.56.162:55555/rtp/239.76.253.168:9000
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://iptv.yjxfz.com:80/tv/play/4/59A150I32J2535I1/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://47.102.200.34:18081/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://iptv.yjxfz.com:80/tv/play/4/647DD4A7EI7971J8/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://iptv.yjxfz.com:80/tv/play/4/467I9D72424J6J29/5689EI8401E9E08I
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV-IPV4",CCTV5+
+http://1b6467f415.iok.la:9931/tsfile/live/1025_1.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-IPV4",CCTV6
+http://sweetown.fun:4000/rtp/239.3.1.174:8001
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-IPV4",CCTV6
+http://223.151.49.74:59901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-IPV4",CCTV6
+http://202.100.46.58:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-IPV4",CCTV6
+http://iptv.yjxfz.com:80/tv/play/4/657IEIN7NN2D240J/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-IPV4",CCTV6
+http://iptv.yjxfz.com:80/tv/play/4/5008EN21I66J70J0/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-IPV4",CCTV6
+http://iptv.yjxfz.com:80/tv/play/4/05J6NIEDN06NI123/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-IPV4",CCTV6
+http://eastscreen.tv/ooooo.php?id=CCTV6HD
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-IPV4",CCTV6
+https://epg.pw/stream/63514d6a0cc1d233f91a13749a64b5271fed4f84f47cc884e189a42a4837d620.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-IPV4",CCTV6
+http://210.22.75.86:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-IPV4",CCTV6
+http://61.138.128.226:19901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-IPV4",CCTV6
+http://171.120.7.130:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-IPV4",CCTV6
+http://171.120.64.204:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-IPV4",CCTV6
+http://iptv.yjxfz.com:80/tv/play/4/6J37EA0J78095009/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-IPV4",CCTV6
+http://111.14.181.15:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-IPV4",CCTV6
+http://221.221.153.193:8888/rtp/239.3.1.174:8001
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-IPV4",CCTV6
+http://124.128.73.58:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-IPV4",CCTV6
+http://60.189.43.82:9999/rtp/233.50.201.198:5140
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-IPV4",CCTV6
+http://221.213.69.82:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV-IPV4",CCTV6
+https://epg.pw/stream/f4264b8f233d614b7c6b9d750e6d580998588407ea1854207a4e8c8c3327d682.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://iptv.yjxfz.com:80/tv/play/4/677IAIE3J2DI6EJN/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://1732e975z9.zicp.fun:8082/hls/8/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://iptv.yjxfz.com:80/tv/play/4/EJAE3A318493N0ND/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://iptv.yjxfz.com:80/tv/play/4/J337775651A8173E/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://124.128.73.58:9901/tsfile/live/0007_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://223.241.247.214:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://vl15191373.imwork.net:8880/udp/239.93.1.67:5140
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://61.157.139.15:9901/tsfile/live/2377_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://115.171.216.56:4000/udp/225.1.8.107:8024
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://iptv.yjxfz.com:80/tv/play/4/3DJ710ID4A47I5E5/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://124.128.73.58:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://iptv.yjxfz.com:80/tv/play/4/I137D746776274D9/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://27.10.76.34:8002/udp/225.0.4.127:7980
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://125.82.168.238:8888/rtp/235.254.198.56:1500
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://iptv.yjxfz.com:80/tv/play/4/IJJ3A77A479I71NN/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://iptv.yjxfz.com:80/tv/play/4/290IED871543600I/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://iptv.yjxfz.com:80/tv/play/4/8A78233DN488II18/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://218.89.240.144:59901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://iptv.yjxfz.com:80/tv/play/4/275D6ENA3934N0IN/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7[1280x720]
+http://xxw.me0.cn/api/migu.php?id=10
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://27.10.134.196:8003/rtp/225.0.4.127:7980
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://buffaloft.ignorelist.com:8888/rtp/239.3.1.61:8104
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://iptv.yjxfz.com:80/tv/play/4/A233IA939J8153I0/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://iptv.yjxfz.com:80/tv/play/4/6I155NI53D13500A/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://123.180.177.20:16000/udp/239.253.92.194:6059
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://iptv.yjxfz.com:80/tv/play/4/A9J04AA383I7N06J/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://60.12.183.46:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://125.89.163.44:8888/udp/239.77.1.159:5146
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://119.129.238.239:10000/udp/239.77.1.159:5146
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://36.32.174.67:60080/newlive/live/hls/8/live.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://223.151.49.74:59901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://iptv.yjxfz.com:80/tv/play/4/4A45JDDN53704713/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://27.10.76.34:8004/rtp/225.0.4.127:7980
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://222.241.154.37:9901/tsfile/live/23007_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://116.128.224.11:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV-IPV4",CCTV7
+http://116.117.107.53:8096/tsfile/live/0007_1.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://14.29.76.30:9901/tsfile/live/1014_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://27.11.49.234:8001/rtp/225.0.4.137:7980
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://111.14.181.15:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://iptv.yjxfz.com:80/tv/play/4/9J7N9212526E4E35/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://vl15191373.imwork.net:8880/udp/239.93.42.39:5140
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://iptv.yjxfz.com:80/tv/play/4/67A70A47E3D86J2D/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://27.11.49.234:8007/rtp/225.0.4.137:7980
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://222.186.57.43:22222/php/best.php?id=cctv8&live=/PLTV/
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://110.53.52.63:8888/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://115.171.216.56:4000/udp/225.1.8.91:8000
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://60.12.183.46:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://60.189.43.82:9999/rtp/233.50.201.199:5140
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8[1024x576]
+http://110.53.218.182:9902/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://enlen.vip:4022/rtp/239.200.200.23:9028
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://iptv.yjxfz.com:80/tv/play/4/78EJ2J85N3EE34A7/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://171.120.7.130:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://125.89.163.44:8888/udp/239.77.0.172:5146
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://wouu.net:9977/udp/239.93.42.39:5140
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://origin.lean.org.cn:4000/udp/239.45.1.71:5140
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://47.102.200.34:18081/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://221.221.153.193:8888/rtp/239.3.1.175:8001
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://iptv.yjxfz.com:80/tv/play/4/186122N28218A5IJ/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://111.9.163.109:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://iptv.yjxfz.com:80/tv/play/4/DJ311AN0742D9E6I/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://iptv.yjxfz.com:80/tv/play/4/J30875I32I63I9DI/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://113.57.109.48:1111/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://27.10.134.196:8003/udp/225.0.4.137:7980
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://110.80.17.38:9901/tsfile/live/0008_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://gmxw.7766.org:808/hls/96/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://61.162.52.6:8088/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV-IPV4",CCTV8
+http://58.17.48.228:808/hls/8/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://iptv.yjxfz.com:80/tv/play/4/86568I307IDN2625/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://iptv.yjxfz.com:80/tv/play/4/51765NID40NAJ400/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://221.0.78.198:1681/hls/10209/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://iptv.yjxfz.com:80/tv/play/4/2D52783D9021NJ4D/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://222.241.154.37:9901/tsfile/live/23009_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://61.162.52.6:8088/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://114.243.102.64:4000/rtp/239.3.1.62:8112
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://iptv.yjxfz.com:80/tv/play/4/E4N476EE6348N75I/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://36.32.174.67:60080/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://222.241.154.37:9901/tsfile/live/23009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+https://epg.pw/stream/21a84c616496dfbb175a898f5d41b9ae02235ef2138fcaafb642febf53e71377.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://iptv.yjxfz.com:80/tv/play/4/J05268AE028496N5/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://61.157.139.15:9901/tsfile/live/2379_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://124.230.56.141:55555/rtp/239.76.253.159:9000
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://58.220.219.14:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://61.138.128.226:19901/tsfile/live/0009_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://121.19.134.125:808/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://121.24.98.127:8090/hls/17/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://iptv.yjxfz.com:80/tv/play/4/3EJIN7D71E2DJI66/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://111.14.181.15:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://221.213.69.82:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://39.164.202.90:8899/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV-IPV4",CCTV9
+http://119.129.238.239:10000/udp/239.77.0.135:5146
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="CCTV-IPV4",CCTV10
+http://iptv.yjxfz.com:80/tv/play/4/15D62IDJ211NA29A/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="CCTV-IPV4",CCTV10
+http://iptv.yjxfz.com:80/tv/play/4/95ND13DI87EI0D59/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="CCTV-IPV4",CCTV10
+http://61.157.139.15:9901/tsfile/live/2380_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="CCTV-IPV4",CCTV10
+http://110.53.218.182:9902/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="CCTV-IPV4",CCTV10
+https://epg.pw/stream/fc095c2e45f516623d6bf521076f6599f916db498d61c38dca8d9a7c7a626f62.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="CCTV-IPV4",CCTV10
+http://vl15191373.imwork.net:8880/udp/239.93.1.28:5140
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="CCTV-IPV4",CCTV10
+http://60.189.43.82:9999/rtp/233.50.201.122:5140
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://27.10.76.34:8002/udp/225.0.4.7:7980
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://223.151.49.74:59901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://iptv.yjxfz.com:80/tv/play/4/INI98232ANNDD3JN/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://58.51.111.46:1111/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://114.226.231.241:8888/rtp/239.49.1.11:6000
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://114.226.231.240:8888/rtp/239.49.1.11:6000
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://125.89.163.44:8888/udp/239.77.1.238:5146
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://60.7.56.33:4000/rtp/239.253.93.153:6321
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://iptv.yjxfz.com:80/tv/play/4/4DD6NJ51A5EA487A/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://iptv.yjxfz.com:80/tv/play/4/NJ1D3NI7J99IJ01N/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://119.129.238.239:10000/udp/239.77.1.238:5146
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://221.213.69.82:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://buffaloft.ignorelist.com:8888/rtp/239.3.1.152:8120
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://59.173.183.242:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://123.138.216.44:9902/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://61.162.52.6:8088/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://1732e975z9.zicp.fun:8082/hls/12/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://116.117.107.53:8096/tsfile/live/0011_1.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://iptv.yjxfz.com:80/tv/play/4/J92N1979528JD205/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://123.113.236.69:8012/rtp/239.3.1.11:8040
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11[1280x720]
+http://xxw.me0.cn/api/migu.php?id=14
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://121.24.98.226:8090/hls/19/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://iptv.yjxfz.com:80/tv/play/4/0564N68EEN79A566/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://wouu.net:9977/udp/239.93.0.102:5140
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://58.220.219.14:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://121.24.99.16:8090/hls/19/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://116.128.224.11:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://113.25.252.226:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://114.254.187.194:9999/rtp/239.3.1.152:8120
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://218.89.240.144:59901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV-IPV4",CCTV11
+http://iptv.yjxfz.com:80/tv/play/4/6N1177I85EI7EN7E/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://60.12.183.46:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://114.249.161.174:4022/rtp/239.3.1.64:8124
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://114.252.227.154:8000/rtp/239.3.1.64:8124
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://221.0.78.198:1681/hls/10212/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://110.53.52.63:8888/newlive/live/hls/14/live.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://iptv.yjxfz.com:80/tv/play/4/3814I632N45956AE/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://221.221.153.193:8888/rtp/239.3.1.64:8124
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://60.189.43.82:9999/rtp/233.50.201.123:5140
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://61.157.139.15:9901/tsfile/live/2382_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://220.164.192.48:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://iptv.yjxfz.com:80/tv/play/4/A305879941783056/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://119.129.238.239:10000/udp/239.77.1.109:5146
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://222.95.92.12:4000/rtp/239.49.8.135:6000
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://iptv.yjxfz.com:80/tv/play/4/4DJ14A8461D9N992/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+https://epg.pw/stream/324e6aa1dded3b4f9b181969fad75b68afe050090a40010aba5b8eb9cf1493a2.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://tenfarr.com:4000/rtp/239.77.0.136:5146
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://iptv.yjxfz.com:80/tv/play/4/I4E9309859N00J22/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://27.10.76.34:8004/rtp/225.0.4.129:7980
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+https://epg.pw/stream/713f8c42d89efd6b0b31ab22e8070a22a6eb54790b31f6e8ebe511775c1309f5.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://36.32.174.67:60080/newlive/live/hls/15/live.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://iptv.yjxfz.com:80/tv/play/4/DJ252I6J026D73AA/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://iptv.yjxfz.com:80/tv/play/4/979JE5483E20257A/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://iptv.yjxfz.com:80/tv/play/4/D2E54N0I72J754ED/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+https://epg.pw/stream/606785673559b89523ae9a7b643efa266ff08386ce678c2a204216cc78c3efdd.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://iptv.yjxfz.com:80/tv/play/4/289EJ7N22699399J/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://111.196.184.130:5555/rtp/239.3.1.64:8124
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://114.226.231.241:8888/rtp/239.49.8.135:6000
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://vl15191373.imwork.net:8880/udp/239.93.1.30:8124
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://14.29.76.30:9901/tsfile/live/1017_1.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://221.12.3.18:8980/live/cctv12/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV-IPV4",CCTV12
+http://iptv.yjxfz.com:80/tv/play/4/6A6A280NI80J75D2/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://223.241.247.214:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://iptv.yjxfz.com:80/tv/play/4/3082397285793A8I/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://125.93.74.27:9002/tsfile/live/0013_1.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://58.216.229.130:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://115.171.216.56:4000/udp/225.1.8.168:8130
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://113.25.252.226:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://ycsj.aguihome.com:4022/rtp/233.50.201.246:5140
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+https://epg.pw/stream/5e0c514e6ba3d091c01c511c50880499f6584b993ae7c5de863424917928ece8.ctv
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://sweetown.fun:4000/rtp/239.3.1.124:8128
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://183.191.212.247:9999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://116.117.107.53:8096/tsfile/live/0013_1.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://123.138.216.44:9902/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+https://epg.pw/stream/03708eabf767c88c351b767a1f625c4a6a26af598b506db563767d59720bf332.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://218.3.138.25:1111/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://171.120.64.204:9999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://iptv.yjxfz.com:80/tv/play/4/7I3NAN31I1962158/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://omnix.cn:4000/udp/225.1.8.168:8130
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://119.163.199.98:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://iptv.yjxfz.com:80/tv/play/4/7866A6NN59792ED0/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://iptv.yjxfz.com:80/tv/play/4/92318089363186J3/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://124.128.73.58:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://112.123.206.32:808/hls/13/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://171.120.57.130:8082/rtp/226.0.2.30:8152
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://125.89.163.44:8888/udp/239.77.0.188:5146
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://124.128.73.58:9901/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://buffaloft.ignorelist.com:8888/rtp/239.3.1.124:8128
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://iptv.yjxfz.com:80/tv/play/4/380J85A1N0980J7N/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://iptv.yjxfz.com:80/tv/play/4/5386D42A78I2958E/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+https://epg.pw/stream/f775810be10706600c58373ca47c369fa14a21c1fb1fb953645eaa89b7811b7f.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV-IPV4",CCTV13
+http://39.164.202.90:8899/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://116.128.242.83:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://220.164.192.48:50085/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://114.249.161.174:4022/rtp/239.3.1.65:8132
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://iptv.yjxfz.com:80/tv/play/4/78E3A2E14ANI9N3J/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://59.173.243.210:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://iptv.yjxfz.com:80/tv/play/4/NE63JJ97947121DJ/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://120.234.5.29:6000/udp/239.20.0.202:2202
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://111.196.184.130:5555/rtp/239.3.1.65:8132
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://iptv.yjxfz.com:80/tv/play/4/89160D5294ENN2II/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://221.213.69.82:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://124.128.73.58:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://27.10.134.196:8004/rtp/225.0.4.128:7980
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://60.210.100.54:352/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://110.53.218.182:9902/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://www.akw323.com:9527/udp/238.255.2.17:5999
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://27.11.49.234:8007/rtp/225.0.4.128:7980
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://27.10.76.34:8002/rtp/225.0.4.128:7980
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://59.173.183.242:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://221.12.3.18:8980/live/cctv14/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://iptv.yjxfz.com:80/tv/play/4/298II1E17NDE9607/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://113.25.252.226:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://121.24.98.127:8090/hls/22/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV-IPV4",CCTV14
+http://27.10.76.34:8007/udp/225.0.4.128:7980
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://iptv.yjxfz.com:80/tv/play/4/7IN35562DJ139623/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://iptv.yjxfz.com:80/tv/play/4/4840I6810A1J0A6N/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://183.185.252.91:9999/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://110.53.218.182:9902/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://iptv.yjxfz.com:80/tv/play/4/361164IJ6NI2E51D/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://221.12.3.18:8980/live/cctv15/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://60.189.43.82:9999/rtp/233.50.201.15:5140
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://gmxw.7766.org:808/hls/102/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://47.102.200.34:18081/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://enlen.vip:4022/rtp/239.200.201.112:8496
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://ik6.iptv8.net:8888/udp/225.1.4.216:1269
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://121.24.98.253:8090/hls/23/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://1b6467f415.iok.la:9931/tsfile/live/1035_1.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://116.117.107.53:8096/tsfile/live/0014_2.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://111.14.181.15:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://iptv.yjxfz.com:80/tv/play/4/62DDAND288J77EN6/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://114.243.102.64:4000/rtp/239.3.1.153:8136
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://27.10.134.196:8003/udp/225.0.4.220:7980
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://115.171.216.56:4000/udp/225.1.8.115:8052
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://iptv.yjxfz.com:80/tv/play/4/NN2900850D8603A4/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+https://epg.pw/stream/932e62bcafc868cc1eaff14be17c9daf412a1f5c2cd1b29b2d494bf07c6d5857.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://221.213.69.82:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://27.10.76.34:8002/udp/225.0.4.11:7980
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://60.7.56.33:4000/rtp/239.253.93.154:6322
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://iptv.yjxfz.com:80/tv/play/4/98120D4JI7A8I87I/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://223.241.247.214:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV-IPV4",CCTV15
+http://iptv.yjxfz.com:80/tv/play/4/0761E9I1E4918DN1/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV-IPV4",CCTV16
+http://60.189.43.82:9999/rtp/233.50.201.192:5140
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV-IPV4",CCTV16
+http://buffaloft.ignorelist.com:8888/rtp/239.3.1.184:8001
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV-IPV4",CCTV16
+http://iptv.yjxfz.com:80/tv/play/4/4J4JD44519118634/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV-IPV4",CCTV16[1024x576]
+http://iptvcyp.top:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV-IPV4",CCTV16
+http://111.196.184.130:5555/rtp/239.3.1.184:8001
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV-IPV4",CCTV16
+http://220.164.192.48:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV-IPV4",CCTV16
+http://171.117.245.185:8084/rtp/226.0.2.169:9264
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV-IPV4",CCTV16
+http://iptv.yjxfz.com:80/tv/play/4/84389N933N061N8N/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-IPV4",CCTV17
+http://dassby.qqff.top:99/live/CCTV17/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-IPV4",CCTV17
+http://47.102.200.34:18081/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-IPV4",CCTV17
+http://111.196.184.130:5555/rtp/239.3.1.151:8144
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-IPV4",CCTV17
+http://buffaloft.ignorelist.com:8888/rtp/239.3.1.151:8144
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-IPV4",CCTV17
+http://iptv.yjxfz.com:80/tv/play/4/0816EED6184576E8/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-IPV4",CCTV17
+http://iptv.yjxfz.com:80/tv/play/4/E864A74075I407E9/A1I5458A9N6J0388
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-IPV4",CCTV17
+http://221.221.165.219:8888/rtp/239.3.1.151:8144
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-IPV4",CCTV17
+http://iptv.yjxfz.com:80/tv/play/4/69D854186708AN4E/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-IPV4",CCTV17
+http://iptvcyp.top:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-IPV4",CCTV17
+http://iptv.yjxfz.com:80/tv/play/4/9520D9IA50D7E2DJ/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-IPV4",CCTV17
+http://iptv.yjxfz.com:80/tv/play/4/01N1N142ENA4NJ37/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-IPV4",CCTV17
+http://171.120.57.130:8082/rtp/226.0.2.207:9568
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-IPV4",CCTV17
+http://171.120.57.130:8082/rtp/226.0.2.170:9272
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-IPV4",CCTV17
+http://iptv.yjxfz.com:80/tv/play/4/3ID0I616863N9ENA/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-IPV4",CCTV17
+http://123.123.167.240:8000/rtp/239.3.1.151:8144
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-IPV4",CCTV17
+http://113.57.20.158:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-IPV4",CCTV17
+http://60.189.43.82:9999/rtp/233.50.201.35:5140
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV-IPV4",CCTV17
+http://iptv.yjxfz.com:80/tv/play/4/174E336AI1424735/N9E90D28495IN71E
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="CCTV-IPV4",CCTV4K
+http://47.102.200.34:18081/live/program/live/cctv4k/15000000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="CCTV-IPV4",CCTV4K
+http://125.89.163.44:8888/udp/239.77.0.194:5146
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="CCTV-IPV4",CCTV4K
+http://125.89.163.44:8888/udp/239.77.0.174:5146
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265018/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=3
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
+http://omnix.cn:4000/udp/225.1.8.45:8032
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000014098/1.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000014260/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=3
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000007275/1.m3u8?channel-id=bestzb&Contentid=5000000004000007275&livemode=1&stbId=3$1920x1080
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265031/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=3$1920x1080
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265024/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265024&livemode=1&stbId=3
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000006692/1.m3u8?channel-id=bestzb&Contentid=5000000004000006692&livemode=1&stbId=3
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png",湖北卫视
+http://www.745612.xyz:7788/rtp/235.254.198.72:1564
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265034/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=3$1920x1080
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000014176/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=3$1920x1080
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265033/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=3
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000010584/1.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=3
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png",云南卫视
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031120/1.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=3
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png",河北卫视
+http://111.61.236.247:9081/hls/17/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视
+http://111.61.236.247:9081/hls/34/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
+http://111.61.236.247:9081/hls/35/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png",江西卫视
+http://111.61.236.247:9081/hls/36/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png",贵州卫视
+http://111.61.236.247:9081/hls/37/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
+http://111.61.236.247:9081/hls/38/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png",湖北卫视
+http://111.61.236.247:9081/hls/39/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
+http://111.61.236.247:9081/hls/40/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视
+http://111.61.236.247:9081/hls/41/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
+http://111.61.236.247:9081/hls/42/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
+http://111.61.236.247:9081/hls/43/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视
+http://111.61.236.247:9081/hls/44/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png",吉林卫视
+http://111.61.236.247:9081/hls/45/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",陕西卫视
+http://111.61.236.247:9081/hls/46/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png",山西卫视
+http://111.61.236.247:9081/hls/47/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png",内蒙古卫视
+http://111.61.236.247:9081/hls/48/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",青海卫视
+http://111.61.236.247:9081/hls/49/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4",旅游卫视
+http://111.61.236.247:9081/hls/50/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png",宁夏卫视
+http://111.61.236.247:9081/hls/51/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png",西藏卫视
+http://111.61.236.247:9081/hls/52/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png",新疆卫视
+http://111.61.236.247:9081/hls/53/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png",甘肃卫视
+http://111.61.236.247:9081/hls/54/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
+http://123.166.61.70:8003/hls/58/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
+http://123.166.61.70:8003/hls/22/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
+http://123.166.61.70:8003/hls/56/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png",天津卫视
+http://123.166.61.70:8003/hls/57/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
+http://123.166.61.70:8003/hls/55/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
+http://123.166.61.70:8003/hls/21/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
+http://123.166.61.70:8003/hls/61/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
+http://123.166.61.70:8003/hls/24/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视
+http://123.166.61.70:8003/hls/62/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
+http://123.166.61.70:8003/hls/53/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
+http://123.166.61.70:8003/hls/52/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视
+http://123.166.61.70:8003/hls/14/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
+http://123.166.61.70:8003/hls/20/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png",贵州卫视
+http://123.166.61.70:8003/hls/54/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
+http://123.166.61.70:8003/hls/63/index.m3u8
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
+http://101.65.32.166:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
+http://101.65.32.166:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
+http://101.65.32.166:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
+http://101.65.32.166:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
+http://101.65.32.166:9901/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视
+http://101.65.32.166:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
+http://101.65.32.166:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
+http://101.65.32.166:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png",江西卫视
+http://101.65.32.166:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png",贵州卫视
+http://101.65.32.166:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视
+http://101.65.32.166:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
+http://101.65.32.166:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png",吉林卫视
+http://101.65.32.166:9901/tsfile/live/0116_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png",天津卫视
+http://101.65.32.166:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视
+http://101.65.32.166:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
+http://101.65.32.166:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
+http://101.65.32.166:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png",湖北卫视
+http://101.65.32.166:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",陕西卫视
+http://101.65.32.166:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png",山西卫视
+http://101.65.32.166:9901/tsfile/live/0109_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视
+http://101.65.32.166:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png",云南卫视
+http://101.65.32.166:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png",河北卫视
+http://101.65.32.166:9901/tsfile/live/0111_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png",内蒙古卫视
+http://101.65.32.166:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png",宁夏卫视
+http://101.65.32.166:9901/tsfile/live/0112_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png",西藏卫视
+http://101.65.32.166:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",青海卫视
+http://101.65.32.166:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png",甘肃卫视
+http://101.65.32.166:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方卫视-IPV4" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
+http://101.65.32.166:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="电影频道-IPV4",CHC影迷电影
+http://eastscreen.tv/ooooo.php?id=chchd
+#EXTINF:-1 group-title="电影频道-IPV4",CHC影迷电影
+http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 group-title="电影频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png",CHC动作电影
+http://eastscreen.tv/ooooo.php?id=chcdz
+#EXTINF:-1 group-title="电影频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png",CHC动作电影
+http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 group-title="电影频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png",CHC家庭影院
+http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
+#EXTINF:-1 group-title="电影频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png",CHC家庭影院
+http://eastscreen.tv/ooooo.php?id=chcjt
+#EXTINF:-1 group-title="电影频道-IPV4",强森电影
+http://cfss.cc/cdn/hy/21059581.flv
+#EXTINF:-1 group-title="电影频道-IPV4",家庭影院
+http://27.11.52.62:8004/udp/225.0.4.171:7980
+#EXTINF:-1 group-title="电影频道-IPV4",家庭影院
+http://27.11.52.62:8005/udp/225.0.4.171:7980
+#EXTINF:-1 group-title="电影频道-IPV4",家庭影院
+http://27.10.76.34:8002/udp/225.0.4.171:7980
+#EXTINF:-1 group-title="电影频道-IPV4",家庭影院
+http://124.94.193.136:9902/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="电影频道-IPV4",经典电影
+http://vl15191373.imwork.net:8880/udp/239.93.0.57:9024
+#EXTINF:-1 group-title="电影频道-IPV4",经典电影
+http://113.57.20.158:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="电影频道-IPV4",经典电影
+http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 group-title="电影频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png",NEWTV超级电影
+http://gslbservzqhsw.itv.cmvideo.cn/1000000003000012426/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
+#EXTINF:-1 group-title="电影频道-IPV4",NEWTV动作电影
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
+#EXTINF:-1 group-title="电影频道-IPV4",NEWTV惊悚悬疑
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
+#EXTINF:-1 group-title="电影频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/NEWTV海外剧场.png",NEWTV海外剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 group-title="电影频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png",NEWTV超级电视剧
+http://gslbservzqhsw.itv.cmvideo.cn/1000000006000268003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=3
+#EXTINF:-1 group-title="电影频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png",NEWTV超级电视剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 group-title="电影频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png",NEWTV超级电视剧
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 group-title="纪录频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png",北京纪实科教
+http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+#EXTINF:-1 group-title="纪录频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png",文物宝库
+http://111.61.236.247:9081/hls/64/index.m3u8
+#EXTINF:-1 group-title="纪录频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/上海教育.png",上海教育
+http://origin.lean.org.cn:4000/udp/239.45.0.13:5140
+#EXTINF:-1 group-title="纪录频道-IPV4",上海纪实
+http://wouu.net:9977/udp/239.93.1.137:5140
+#EXTINF:-1 group-title="纪录频道-IPV4",上海纪实
+http://125.89.163.44:8888/udp/239.77.1.216:5146
+#EXTINF:-1 group-title="纪录频道-IPV4",上海纪实
+http://125.89.163.44:8888/udp/239.77.0.147:5146
+#EXTINF:-1 group-title="纪录频道-IPV4",上海纪实
+http://s.cdhongyuan.cn:4022/udp/239.93.1.137:5140
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",央视台球
+http://www.lizhinas.top:8688/rtp/239.252.219.80:5140
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/风云足球.png",风云足球
+http://wuqianmu.synology.me:4000/udp/232.0.0.52:1234
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/风云足球.png",风云足球
+http://60.7.56.50:4000/udp/239.253.93.254:6432
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/风云足球.png",风云足球
+http://125.89.163.44:8888/udp/239.253.43.20:5146
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/风云足球.png",风云足球
+http://123.180.177.20:16000/udp/239.253.92.110:8061
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/风云足球.png",风云足球
+http://60.7.56.50:4000/udp/239.253.92.110:8061
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",央视台球
+http://61.190.129.195:8686/rtp/238.1.79.59:4608
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",央视台球
+http://www.qhjx.top:18000/udp/238.255.2.224:5999
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",央视台球
+http://xuys.top:8888/udp/225.1.2.170:5002
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",央视台球
+https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",央视台球
+http://tvbox6.com/tv/ysp.php?id=34
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",央视台球
+https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",央视台球
+http://www.akw323.com:9527/rtp/238.255.2.224:5999
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",央视台球
+http://wuqianmu.synology.me:4000/udp/232.0.0.60:1234
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",央视台球
+http://125.89.163.44:8888/udp/239.253.43.21:5146
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",央视台球
+http://125.89.163.44:8888/udp/239.253.43.11:5146
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",央视台球
+http://120.237.241.82:4000/udp/239.253.43.21:5146
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",央视台球
+http://120.237.241.82:4000/udp/239.253.43.11:5146
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png",劲爆体育
+http://47.102.200.34:18081/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",五星体育
+http://origin.lean.org.cn:4000/udp/239.45.3.210:5140
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",五星体育
+http://210.22.75.86:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",五星体育
+http://47.102.200.34:18081/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",五星体育
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
+http://119.129.238.239:10000/udp/239.77.0.168:5146
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
+http://125.89.163.44:8888/udp/239.77.0.168:5146
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
+http://58.252.12.164:8000/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
+http://119.129.238.239:10000/udp/239.77.0.6:5146
+#EXTINF:-1 group-title="体育频道-IPV4",辽宁体育休闲
+http://124.94.193.136:9902/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道-IPV4",精品体育
+https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
+#EXTINF:-1 group-title="体育频道-IPV4",精品体育
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育频道-IPV4",足球高清
+http://47.102.200.34:18081/live/program/live/zqpd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="体育频道-IPV4",足球高清
+http://wouu.net:9977/udp/239.93.0.197:9040
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/足球频道.png",足球频道
+http://60.7.56.50:4000/udp/239.253.93.229:6407
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/足球频道.png",足球频道
+http://123.180.177.20:16000/udp/239.253.93.229:6407
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png",天元围棋
+http://60.7.56.50:4000/udp/239.253.93.211:6389
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png",天元围棋
+http://120.237.241.82:4000/udp/239.253.43.98:5146
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png",天元围棋
+http://125.89.163.44:8888/udp/239.253.43.98:5146
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png",快乐垂钓
+http://60.7.56.50:4000/udp/239.253.93.213:6391
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png",快乐垂钓
+http://vl15191373.imwork.net:8880/udp/239.93.1.151:5140
+#EXTINF:-1 group-title="体育频道-IPV4" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png",快乐垂钓
+http://27.10.76.34:8002/udp/225.0.4.213:7980
+#EXTINF:-1 group-title="体育频道-IPV4",纬来体育
+https://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 group-title="体育频道-IPV4",纬来体育
+https://cloud.yumixiu768.com:443/tmp/123.m3u8
+#EXTINF:-1 group-title="体育频道-IPV4",博斯无限
+http://37.27.111.214:8080/live/15/hls.m3u8
+#EXTINF:-1 group-title="体育频道-IPV4",博斯运动1
+http://37.27.111.214:8080/live/14/hls.m3u8
+#EXTINF:-1 group-title="体育频道-IPV4",博斯高球1
+http://37.27.111.214:8080/live/13/hls.m3u8
+#EXTINF:-1 group-title="体育频道-IPV4",JSPORTS1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="体育频道-IPV4",JSPORTS2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="体育频道-IPV4",JSPORTS3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="体育频道-IPV4",JSPORTS4
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="TW",东森新闻
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png",TVBS新闻
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="https://live.fanmingming.com/tv/TVBS亚洲.png",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="https://live.fanmingming.com/tv/TVBS亚洲.png",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐.png",TVBS欢乐
+http://37.27.111.214:8080/live/24/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐.png",TVBS欢乐
+http://litv.zapi.us.kg/?id=4gtv-4gtv068
+#EXTINF:-1 group-title="TW",中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="https://live.fanmingming.com/tv/民视.png",民视
+http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png",民视新闻台
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="TW",TVBS亚洲台
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="TW",八大第一台
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="TW",八大综合台
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="TW",八大戏剧台
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="TW",三立戏剧台
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="TW",AMC电影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="TW",纬来精采
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="TW",aisa Discovery
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="TW",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="TW",Discovery
+http://61.221.215.25:8800/hls/1/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="https://live.fanmingming.com/tv/HGTV.png",HGTV
+https://food-dlvr-ott.akamaized.net/primary/4/c20e615a33504bc7a227077cb102aef1/index_13.m3u8
+#EXTINF:-1 group-title="TW",亚洲旅游台
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-logo="https://live.fanmingming.com/tv/龙华电影.png",龙华电影
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 group-title="HK" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰卫视中文台
+http://s.cdhongyuan.cn:4022/udp/239.93.0.162:2192
+#EXTINF:-1 group-title="HK" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰卫视中文台
+http://s.cdhongyuan.cn:4022/udp/239.93.1.9:2192
+#EXTINF:-1 group-title="HK" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",凤凰卫视香港台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="HK",香港亚洲卫视
+https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
+#EXTINF:-1 group-title="HK",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="HK",RTHK33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+#EXTINF:-1 group-title="HK",RTHK34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="HK",RTHK35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="HK",美亚电视
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 group-title="HK" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png",TVB星河
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 group-title="HK" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",TVB翡翠台
+http://zsntlqj.xicp.net:8895/bysid/1.m3u8
+#EXTINF:-1 group-title="HK" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",TVB翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="HK" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",TVB翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1 group-title="HK" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",TVB翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="HK" tvg-logo="https://live.fanmingming.com/tv/明珠台.png",明珠台
+http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
+#EXTINF:-1 group-title="HK" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png",星空卫视
+http://nas.jumping.wang:5555/udp/239.93.0.156:2193
+#EXTINF:-1 group-title="HK" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png",星空卫视
+http://wouu.net:9977/udp/239.93.0.156:2193
+#EXTINF:-1 group-title="WORLD" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png",NHKWorld
+http://61.221.215.25:8800/hls/51/index.m3u8
