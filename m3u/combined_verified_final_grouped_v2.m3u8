@@ -5,128 +5,6 @@ http://g.alicdn.com/de/prismplayer-flash/1.2.16/PrismPlayer.swf?vurl=http%3A//m.
 http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="港澳台" fluency_score="100" response_time="2297.75 ms", 港台电视31
 http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-name="東森幼幼台" tvg-logo="https://live.fanmingming.cn/tv/東森幼幼台.png" group-title="港澳台",東森幼幼台
-https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
-#EXTINF:-1 tvg-name="華視" tvg-logo="https://live.fanmingming.cn/tv/華視.png" group-title="港澳台",華視
-https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
-#EXTINF:-1 tvg-name="東森美洲" tvg-logo="https://live.fanmingming.cn/tv/東森美洲.png" group-title="港澳台",東森美洲
-https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
-#EXTINF:-1 tvg-name="東森財經" tvg-logo="https://live.fanmingming.cn/tv/東森財經.png" group-title="港澳台",東森財經
-https://epg.pw/stream/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8
-#EXTINF:-1 tvg-name="民視綜藝" tvg-logo="https://live.fanmingming.cn/tv/民視綜藝.png" group-title="港澳台",民視綜藝
-https://epg.pw/stream/7c4b658119c1bb61f50346e68cfd30c61610f0463886077973a2b75693da29d8.m3u8
-#EXTINF:-1 tvg-name="TVBS Asia" tvg-logo="https://live.fanmingming.cn/tv/TVBS Asia.png" group-title="港澳台",TVBS Asia
-https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
-#EXTINF:-1 tvg-name="中天亞洲" tvg-logo="https://live.fanmingming.cn/tv/中天亞洲.png" group-title="港澳台",中天亞洲
-https://epg.pw/stream/a9d088ac00598b278adc64978f34cc0349face9cbadbd268eda1a42c0c95d6eb.m3u8
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.cn/tv/TVBS.png" group-title="港澳台",TVBS
-https://epg.pw/stream/06baf79b6e6515fa271791223499a2ecf53f1917f24c680bfa8a7539162cce76.m3u8
-#EXTINF:-1 tvg-name="東森綜合" tvg-logo="https://live.fanmingming.cn/tv/東森綜合.png" group-title="港澳台",東森綜合
-https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
-#EXTINF:-1 tvg-name="三立INEWS FHD" tvg-logo="https://live.fanmingming.cn/tv/三立INEWS FHD.png" group-title="港澳台",三立INEWS FHD
-https://epg.pw/stream/65877e93c3818e479a35e771641827cb68668f181f380a31f09230e01f02fece.m3u8
-#EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://live.fanmingming.cn/tv/東森洋片.png" group-title="港澳台",東森洋片
-https://epg.pw/stream/8b6c965b023696353ae23ce6216297fa6f2e13236497bcfe9d9955fb69be2259.m3u8
-#EXTINF:-1 tvg-name="民視臺灣台" tvg-logo="https://live.fanmingming.cn/tv/民視臺灣台.png" group-title="港澳台",民視臺灣台
-https://epg.pw/stream/b029057b372efdfb0738a3306cd07ff4a5d4fecc6c271b57d29b7ba282d7a6f8.m3u8
-#EXTINF:-1 tvg-name="TVBS Asia" tvg-logo="https://live.fanmingming.cn/tv/TVBS Asia.png" group-title="港澳台",TVBS Asia
-https://epg.pw/stream/bec78e286aac6635512a9f28b62fd31b8e95a4a6c3d14cfb31cc3924b0f4725c.m3u8
-#EXTINF:-1 tvg-name="中視" tvg-logo="https://live.fanmingming.cn/tv/中視.png" group-title="港澳台",中視
-https://epg.pw/stream/48023223cf3a94ab9dcdbef7b2e3c566429aeaba44f3e41d03a955e1202ad492.m3u8
-#EXTINF:-1 tvg-name="東森美洲" tvg-logo="https://live.fanmingming.cn/tv/東森美洲.png" group-title="港澳台",東森美洲
-https://epg.pw/stream/d9a679454b6c0b5dad7d457df83d71fb9a68adec2c5f603770e94b88152c5d49.m3u8
-#EXTINF:-1 tvg-name="東森美洲衛視" tvg-logo="https://live.fanmingming.cn/tv/東森美洲衛視.png" group-title="港澳台",東森美洲衛視
-https://epg.pw/stream/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8
-#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.cn/tv/台視新聞.png" group-title="港澳台",台視新聞
-https://epg.pw/stream/4b4e47c5487fd635bc3a721c3ecff2698d44492b1db12412f5b8abc9597a911f.m3u8
-#EXTINF:-1 tvg-name="東森超視" tvg-logo="https://live.fanmingming.cn/tv/東森超視.png" group-title="港澳台",東森超視
-https://epg.pw/stream/c4bdb9e1c44e823ee9e33f3dbd887f65ffbdfe197707325552c2720a5b872d40.m3u8
-#EXTINF:-1 tvg-name="東森美洲" tvg-logo="https://live.fanmingming.cn/tv/東森美洲.png" group-title="港澳台",東森美洲
-https://epg.pw/stream/4f75b6abb8483c7acd3ce3b93a088cb93d1be9ec7c8bf4d9137f0f4c3a2076a6.m3u8
-#EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://live.fanmingming.cn/tv/中天新聞.png" group-title="港澳台",中天新聞
-https://epg.pw/stream/5b84b0baf55fce778cffd1d5a35ef8e77dfb02436d82cd5a83dd78c61c90462e.m3u8
-#EXTINF:-1 tvg-name="中視" tvg-logo="https://live.fanmingming.cn/tv/中視.png" group-title="港澳台",中視
-https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
-#EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://live.fanmingming.cn/tv/民視第一台.png" group-title="港澳台",民視第一台
-https://epg.pw/stream/2efd47e51559d5a51e8f811fb5d08343e45a0f5360db3f44bd5c6c3dd31f0e8e.m3u8
-#EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://live.fanmingming.cn/tv/中視新聞.png" group-title="港澳台",中視新聞
-https://epg.pw/stream/82f32d75a3fc48001b26514205937c92561b5540c3d1f21b644c86c17dd4ea63.m3u8
-#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.cn/tv/台視新聞.png" group-title="港澳台",台視新聞
-https://epg.pw/stream/b9fa8d19fa8492880b9c9f66eca6111adf20aee719d3cb1e4a027168ca382510.m3u8
-#EXTINF:-1 tvg-name="三立新聞" tvg-logo="https://live.fanmingming.cn/tv/三立新聞.png" group-title="港澳台",三立新聞
-https://epg.pw/stream/4c272496a61a3b4cf50553f78220d3388e87ed9b0ccd9c440e46ab5f753c8771.m3u8
-#EXTINF:-1 tvg-name="民視" tvg-logo="https://live.fanmingming.cn/tv/民視.png" group-title="港澳台",民視
-https://epg.pw/stream/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035720ee6f40ea.m3u8
-#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.cn/tv/台視新聞.png" group-title="港澳台",台視新聞
-https://epg.pw/stream/6ffb325e878b6ae255f12f6f11aef268b32db0d6b8b43c53fa0041975274cba5.m3u8
-#EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://live.fanmingming.cn/tv/中天新聞.png" group-title="港澳台",中天新聞
-https://epg.pw/stream/0db019b527d8501c2a097419c74c07400c6dd5eb79cab8970da78171043250b5.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="港澳台",翡翠台
-https://epg.pw/stream/b43f94b33e3f2222a12195487519c698c65d7c2d50bc627205f24e20919c6fe2.ctv
-#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.cn/tv/台視新聞.png" group-title="港澳台",台視新聞
-https://epg.pw/stream/a399e85fa5940ba0350181fdfa9e103f3556324a504c5cb5ef35c0c4f9a04c36.m3u8
-#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.cn/tv/台視新聞.png" group-title="港澳台",台視新聞
-https://epg.pw/stream/eac1d72af640b2368193c724070f1cceb6892b6cb329e871864697f1905af047.m3u8
-#EXTINF:-1 tvg-name="民視影劇臺" tvg-logo="https://live.fanmingming.cn/tv/民視影劇臺.png" group-title="港澳台",民視影劇臺
-https://epg.pw/stream/3f718003e6c0b409e0a7620c4b17f7abb3e2f18c0f4f6dc82de5de806aff88ce.m3u8
-#EXTINF:-1 tvg-name="中視新聞臺" tvg-logo="https://live.fanmingming.cn/tv/中視新聞臺.png" group-title="港澳台",中視新聞臺
-https://epg.pw/stream/6a353ec254f32e5ec540b3a4a78c94313270398df5c95a7111177ebe943424b2.m3u8
-#EXTINF:-1 tvg-name="東森電影" tvg-logo="https://live.fanmingming.cn/tv/東森電影.png" group-title="港澳台",東森電影
-https://epg.pw/stream/955488b84e90b3d75fcc1ce2ee6319b04fa9237531d570de71d18325d3b02c14.m3u8
-#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.cn/tv/台視新聞.png" group-title="港澳台",台視新聞
-https://epg.pw/stream/7e38e8d94c527c78eb0b414d29e8100d0bf3f90d5c73ce799795fe3785675319.m3u8
-#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.cn/tv/台視新聞.png" group-title="港澳台",台視新聞
-https://epg.pw/stream/4acb9a6c8a472aac28a3fd615726607ef653aba1ec1bd47a4b743365841661b9.m3u8
-#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.cn/tv/台視新聞.png" group-title="港澳台",台視新聞
-https://epg.pw/stream/d388b721bbe24174167197bd8df71614187bcb174879a301f1bc24ff2d8d6136.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="港澳台",翡翠台
-https://epg.pw/stream/531835a4364877a08c4abed27fbc8c692c9383080a2f55838408be805ba91898.ctv
-#EXTINF:-1 tvg-name="TVBS Asia" tvg-logo="https://live.fanmingming.cn/tv/TVBS Asia.png" group-title="港澳台",TVBS Asia
-https://epg.pw/stream/b24ea75b5547a557c9eaab14ada1cbcfc1fb2f927c682aad461678671fed6157.ctv
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.cn/tv/TVBS.png" group-title="港澳台",TVBS
-https://epg.pw/stream/00c14f2d9028476600ce529e01307b3850eacdf925d087e697a7233c759200dd.ctv
-#EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://live.fanmingming.cn/tv/TVBS HD.png" group-title="港澳台",TVBS HD
-https://epg.pw/stream/734d5bf7cc6ea7735d9f775386091a06ef8709a80c77d1223a1d3e8ab8c63910.ctv
-#EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://live.fanmingming.cn/tv/東森洋片.png" group-title="港澳台",東森洋片
-https://epg.pw/stream/f01792b149a55cc131150c35d0c678d325563b064635315b40d4ad31bb52090e.m3u8
-#EXTINF:-1 tvg-name="三立INEWS FHD" tvg-logo="https://live.fanmingming.cn/tv/三立INEWS FHD.png" group-title="港澳台",三立INEWS FHD
-https://epg.pw/stream/de7b21f59593fe8ac780f1058eee1de51cadc9d3a6a6f79eb1e6c95bcbdc4087.m3u8
-#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.cn/tv/台視新聞.png" group-title="港澳台",台視新聞
-https://epg.pw/stream/07420afeb8a2edf0654aac4b73fe562896504712677577e2929d4425986b3415.m3u8
-#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.cn/tv/台視新聞.png" group-title="港澳台",台視新聞
-https://epg.pw/stream/96afb8d6fa20bb65a774f91d5caa60abc507e35ade518c7992f5f652cadd0914.m3u8
-#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.cn/tv/台視新聞.png" group-title="港澳台",台視新聞
-https://epg.pw/stream/a68a66899669d90058ad8baacda8c9e59ba8b2c5ab1fb74e50ac7d3bc971e25b.m3u8
-#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.cn/tv/台視新聞.png" group-title="港澳台",台視新聞
-https://epg.pw/stream/d3230731a96387dccb11e86bafb66b5715c55e8b3033cbf183d4972995cea362.m3u8
-#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://live.fanmingming.cn/tv/民視新聞.png" group-title="港澳台",民視新聞
-https://epg.pw/stream/c5164ddd2983de1b83d87250bb921836d47363c90dc4643440e92060c18e98e6.m3u8
-#EXTINF:-1 tvg-name="TVBS Asia" tvg-logo="https://live.fanmingming.cn/tv/TVBS Asia.png" group-title="港澳台",TVBS Asia
-https://epg.pw/stream/7bf245a4c5efc78cdd8c2dfefc1275e0eb779e2bbf1cfb24659b3154b6842acc.ctv
-#EXTINF:-1 tvg-name="中天亞洲" tvg-logo="https://live.fanmingming.cn/tv/中天亞洲.png" group-title="港澳台",中天亞洲
-https://epg.pw/stream/b2c21dc375aa7d91af1ae24341e9065d56b0b142fef4d75f915a2b43552f907e.ctv
-#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://live.fanmingming.cn/tv/民視新聞.png" group-title="港澳台",民視新聞
-https://epg.pw/stream/1d469cbfb06b06cde4dc59c21272a4e6da364621e97513d03523c96d0c7afe1e.m3u8
-#EXTINF:-1 tvg-name="TVBS Asia" tvg-logo="https://live.fanmingming.cn/tv/TVBS Asia.png" group-title="港澳台",TVBS Asia
-https://epg.pw/stream/ec5424752740743749fb692056ad531d2c31be0d24838de3b2093e26cd085175.ctv
-#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://live.fanmingming.cn/tv/民視新聞.png" group-title="港澳台",民視新聞
-https://epg.pw/stream/9d0c0065e0765bccc3f375d947bbb75efe5461443d6c1e06c7d37d6f57e26358.m3u8
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://epg.iill.top/logo/RTHK31.png" group-title="港澳台",RTHK 31「限HK」
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://live.fanmingming.cn/tv/民視新聞.png" group-title="港澳台",民視新聞
-https://epg.pw/stream/7270ae89dc1f30cfec2c03d01b6e2fbc50863f60936b534814dfd28caa72181e.m3u8
-#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.cn/tv/台視新聞.png" group-title="港澳台",台視新聞
-https://epg.pw/stream/1e6f4fea556314599d76bcf7a81101aa774142e1bd344e2354f552f5ca2ea562.m3u8
-#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://live.fanmingming.cn/tv/民視新聞.png" group-title="港澳台",民視新聞
-https://epg.pw/stream/59efca9eea64079ba2ac54830e73469d9a1027e2dfd67d768bd4206567866cdb.m3u8
-#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://live.fanmingming.cn/tv/民視新聞.png" group-title="港澳台",民視新聞
-https://epg.pw/stream/9e0c5226b50fcd68d592dc0ae62154c62a9fd50732329250ee0daf4879ccae49.m3u8
-#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://live.fanmingming.cn/tv/民視新聞.png" group-title="港澳台",民視新聞
-https://epg.pw/stream/a86836147e5d487b35ebac0fabb528a47e58735e8ba039e635c1f8e24c7a7066.m3u8
-#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://live.fanmingming.cn/tv/民視新聞.png" group-title="港澳台",民視新聞
-https://epg.pw/stream/357581cc08ace7ef32a04c9c53578fe9906e137989e1f5e0355395f7a3ae8e37.m3u8
-#EXTINF:-1 tvg-name="中視" tvg-logo="https://live.fanmingming.cn/tv/中視.png" group-title="港澳台",中視
-https://epg.pw/stream/5c00445bca9aaeefcb38ce5a1227e06ac3d420a57a804161ae6f95eaf4e825e9.ctv
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="港澳台",TVB Plus
 http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-id="RTHK1" tvg-name="RTHK1" tvg-logo="https://live.fanmingming.com/radio/rthk.png" group-title="港澳台",「境外广播」RTHK1
@@ -135,20 +13,10 @@ https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
 https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
 #EXTINF:-1 tvg-id="RTHK2" tvg-name="RTHK2" tvg-logo="https://live.fanmingming.com/radio/rthk.png" group-title="港澳台",「境外广播」RTHK2
 https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
-#EXTINF:-1 tvg-name="中視" tvg-logo="https://live.fanmingming.cn/tv/中視.png" group-title="港澳台",中視
-https://epg.pw/stream/00c0e49f6b0ebf36cf01a6b87955f78c400927f22fac4390ac0838cebd333d11.ctv
-#EXTINF:-1 tvg-name="中天亞洲" tvg-logo="https://live.fanmingming.cn/tv/中天亞洲.png" group-title="港澳台",中天亞洲
-https://epg.pw/stream/8c4cc58cb16312d301865331be6a868a21485d02bbaea7a4b2aa65c79c4083ca.ctv
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.iill.top/logo/星河台.png" group-title="港澳台",TVB 星河「粤」
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="港澳台",鳳凰衛視·香港
 http://r.jdshipin.com/yDoTN
-#EXTINF:-1 tvg-name="華視" tvg-logo="https://live.fanmingming.cn/tv/華視.png" group-title="港澳台",華視
-https://epg.pw/stream/56dbce1b745f36ee11ae844cd00728290dfc3ada50d7c42255989683cdd1189e.ctv
-#EXTINF:-1 tvg-name="三立新聞" tvg-logo="https://live.fanmingming.cn/tv/三立新聞.png" group-title="港澳台",三立新聞
-https://epg.pw/stream/a5fc038f36087bfc6bb222c8082ca6e8fef103ce6b06a9f97613809d19895325.ctv
-#EXTINF:-1 tvg-name="民視" tvg-logo="https://live.fanmingming.cn/tv/民視.png" group-title="港澳台",民視
-https://epg.pw/stream/3c7cd0959c0ded102a2b7acd3802c1ac36377a0c40cc2036e5cf4005427a6f0a.ctv
 #EXTINF:-1 group-title="港澳台" tvg-name="TVBJ" tvg-logo="https://epg.112114.xyz/logo/TVBJ.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBJ
 http://cdn6.163189.xyz/163189/j1
 #EXTINF:-1 group-title="港澳台" tvg-name="TVB翡翠剧集台(TVBDRAMA)" tvg-logo="https://epg.112114.xyz/logo/TVB翡翠剧集台(TVBDRAMA).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVB翡翠剧集台(TVBDRAMA)
@@ -183,20 +51,10 @@ http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-b.m3u8
 https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="TVBJADE(HD)" tvg-logo="https://epg.112114.xyz/logo/TVBJADE(HD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVBJADE(HD)
 http://cdn6.163189.xyz/163189/jade
-#EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://live.fanmingming.cn/tv/中天新聞.png" group-title="港澳台",中天新聞
-https://epg.pw/stream/b9e82cfac65f66443693e33a291fb6c781816165e5877e9c57480ad2e03dbee8.ctv
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS亚洲.png" group-title="港澳台",TVBS亚洲
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 tvg-name="三立LIVE FHD" tvg-logo="https://live.fanmingming.cn/tv/三立LIVE FHD.png" group-title="港澳台",三立LIVE FHD
-https://epg.pw/stream/ae4170b916932f29973cea9abe8ca8f4228189ba89a30cfd61754d59b8f31f93.ctv
-#EXTINF:-1 tvg-name="東森戲劇" tvg-logo="https://live.fanmingming.cn/tv/東森戲劇.png" group-title="港澳台",東森戲劇
-https://epg.pw/stream/77762d772ca29166c741bb720f444a036c6b7c2c721673e67c5d276c2e7e09c9.ctv
-#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.cn/tv/台視新聞.png" group-title="港澳台",台視新聞
-https://epg.pw/stream/3494a155d6e7afad40f588196589dc0504ac51f3ba233b6338181e20b7e5428b.ctv
 #EXTINF:-1 group-title="港澳台" ,RTHK31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
-#EXTINF:-1 tvg-name="民視" tvg-logo="https://live.fanmingming.cn/tv/民視.png" group-title="港澳台",民視
-https://epg.pw/stream/151d9e43523a82c3a3bdaa1c54b08177028c783cdd72a2fa26442073dd59ffcb.ctv
 #EXTINF:-1 group-title="港澳台" tvg-name="明珠" tvg-logo="https://epg.112114.xyz/logo/明珠.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",明珠
 http://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 tvg-id="RTHK3" tvg-name="RTHK3" tvg-logo="https://live.fanmingming.com/radio/rthk.png" group-title="港澳台",「境外广播」RTHK3
@@ -245,12 +103,6 @@ http://124.244.129.167:9004/0.ts
 http://qingyi.7766.org:9004/0.ts
 #EXTINF:-1 group-title="港澳台",明珠台
 http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
-#EXTINF:-1 tvg-name="財經體育資訊台" tvg-logo="https://live.fanmingming.cn/tv/財經體育資訊台.png" group-title="港澳台",財經體育資訊台
-https://epg.pw/stream/21a0e17b15d2fa1630e12c0c3b7dbda53ebdd2a725a96252d7e26e729f4bf275.m3u8
-#EXTINF:-1 tvg-name="八大綜合" tvg-logo="https://live.fanmingming.cn/tv/八大綜合.png" group-title="港澳台",八大綜合
-https://epg.pw/stream/1c2fc7d5c86079d1921eeab47c285feb04841a33c225de3c306625c9a1921d70.m3u8
-#EXTINF:-1 tvg-name="MOMO購物1臺" tvg-logo="https://live.fanmingming.cn/tv/MOMO購物1臺.png" group-title="港澳台",MOMO購物1臺
-https://epg.pw/stream/6469475656d65dd7311a58feae5d6512bb019b2fb4ee492e572582b94e7acc62.m3u8
 #EXTINF:-1 tvg-name="朝鲜新闻 KCTV" tvg-logo="https://live.fanmingming.cn/tv/朝鲜新闻 KCTV.png" group-title="港澳台",朝鲜新闻 KCTV
 http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 #EXTINF:-1 tvg-name="朝鲜新闻 KCTV" tvg-logo="https://live.fanmingming.cn/tv/朝鲜新闻 KCTV.png" group-title="港澳台",朝鲜新闻 KCTV
